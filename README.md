@@ -1,11 +1,11 @@
 # Ugur Eminli
 
-Security leader with deep offensive-security roots. I build and lead security teams and programs, and I stay close enough to the technical work to earn the room's trust — I still write exploits and publish research.
+Security leader with deep offensive-security roots.
 
 - 👥 Leading security teams and programs; bridging hands-on practitioners and business stakeholders
 - 🧪 Technical depth: published vulnerability research with working PoCs, OSCP/OSCE/OSEP/OSWP
 - 🎯 Interests: offensive security, penetration testing, vulnerability research, security program strategy
-- 📍 Seattle, WA · open to security leadership roles
+- 📍 Seattle, WA
 
 ## Certifications
 
